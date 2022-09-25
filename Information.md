@@ -19,7 +19,7 @@
 
 - 📝 Current Job: [Software Developer / Engineer](Software Developer / Engineer)
 
-- 💬 Ask me about **React, Go, C++, Pythonm, Framework, Express, TypeScript, Ruby, Reactnative,**
+- 💬 Known Coding Languages: **React, Go, C++, Python, Framework, Express, TypeScript, Ruby, Reactnative,**
 
 - 📄 Know about my experiences [https://codeshare.io/yoMN4z](https://codeshare.io/yoMN4z)
 
