@@ -1,5 +1,5 @@
 <h1 align="center">Greetings👋, I'm Barcode</h1>
-<h3 align="center">I'm a Software Engineer, Framework Developer, Full-Stack Developer, Computer Science Enthusiast, Cyber-Securirty</h3>
+<h3 align="center">I'm a Software Engineer, Framework Developer, Full-Stack Developer, Computer Science Enthusiast, Law Enforcement Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=actuallybarcode&label=Profile%20views&color=0e75b6&style=flat" alt="actuallybarcode" /> </p>
 
