@@ -1,5 +1,6 @@
 <h1 align="center">Greetings👋, I'm Barcode</h1>
 <h3 align="center">I'm a Software Engineer, Framework Developer, Full-Stack Developer, Computer Science Enthusiast, Law Enforcement Enthusiast</h3>
+(img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/sthmCnCpfr8M8jtTQy/giphy.gif?cid=790b7611f8e920dc5f80cc8f6bf664291325e1eb9719ed59&rid=giphy.gif&ct=g")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=actuallybarcode&label=Profile%20views&color=0e75b6&style=flat" alt="actuallybarcode" /> </p>
 
