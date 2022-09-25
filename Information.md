@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/actuallybarcode" target="blank"><img src="https://img.shields.io/twitter/follow/actuallybarcode?logo=twitter&style=for-the-badge" alt="actuallybarcode" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Rest API Fixture!**
+- 🔭 Currently Working on **Backend Rest API Fixture!**
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **Nearly anything I can find, to get my hands on.**
+- 👯 What I want to work on **Nearly anything I can find, to get my hands on.**
 
-- 🤝 Pronouns **Undiscovered**
+- 🤝 Pronouns **Undiscovered at this time**
 
 - What have I done before? [Engineering / Cyber-Security / Trust & Safety](Engineering / Cyber-Security / Trust & Safety)
 
@@ -21,7 +21,7 @@
 
 - 💬 Known Coding Languages: **React, Go, C++, Python, Framework, Express, TypeScript, Ruby, Reactnative,**
 
-- 📄 Know about my experiences [https://codeshare.io/yoMN4z](https://codeshare.io/yoMN4z)
+- 📄 Hobbies [Breaking Code, Fixing Code, Getting Mad at My Code Running then breaking when I'm gone, I Enjoy Playing Games, When I'm not Developing I Create Dumb Frameworks out of the Random](Breaking Code, Fixing Code, Getting Mad at My Code Running then breaking when I'm gone, I Enjoy Playing Games, When I'm not Developing I Create Dumb Frameworks out of the Random)
 
 - ⚡ Fun fact **I like fixing code, then when I leave it breaks!**
 
