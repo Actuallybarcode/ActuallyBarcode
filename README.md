@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/actuallybarcode" target="blank"><img src="https://img.shields.io/twitter/follow/actuallybarcode?logo=twitter&style=for-the-badge" alt="actuallybarcode" /></a> </p>
 
-- 🔭 Currently Working on **Discord API Interactive Kit!** 
-- <a href="https://github.com/IanMitchell/interaction-kit">Interactive Kit Repository By IanMitchell</a>
+- 🔭 Currently Working on **Discord API interaction Kit!** 
+- <a href="https://github.com/IanMitchell/interaction-kit">interaction Kit Repository By IanMitchell</a>
  
 - 🌱 I’m currently learning **Rust**
 
