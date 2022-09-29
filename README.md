@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/actuallybarcode" target="blank"><img src="https://img.shields.io/twitter/follow/actuallybarcode?logo=twitter&style=for-the-badge" alt="actuallybarcode" /></a> </p>
 
-- 🔭 Currently Working on **Backend Rest API Fixture!**
+- 🔭 Currently Working on **Interactive Kit!**
 
 - 🌱 I’m currently learning **Rust**
 
