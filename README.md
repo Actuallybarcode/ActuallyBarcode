@@ -1,34 +1,34 @@
 <h1 align="center">Greetings👋, I'm Barcode</h1>
-<h3 align="center">I'm a Software Engineer, Framework Developer, Full-Stack Developer, Computer Science Enthusiast</h3>
+<h3 align="center">I'm a Student Software Engineer / Full-Stack Developer / Framework Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=actuallybarcode&label=Profile%20views&color=0e75b6&style=flat" alt="actuallybarcode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=actuallybarcode" alt="actuallybarcode" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/actuallybarcode" target="blank"><img src="https://img.shields.io/twitter/follow/actuallybarcode?logo=twitter&style=for-the-badge" alt="actuallybarcode" /></a> </p>
+<p align="left"> <a href="https://twitter.com/barcodeforgot" target="blank"><img src="https://img.shields.io/twitter/follow/barcodeforgot?logo=twitter&style=for-the-badge" alt="actuallybarcode" /></a> </p>
 
-- 🔭 Currently Working on **Discord API interaction Kit!** 
-- <a href="https://github.com/IanMitchell/interaction-kit">interaction Kit Repository By IanMitchell</a>
+- 🔭 Currently Working on **Restful API's!** 
+- <a href="https://github.com/Actuallybarcode/RestFul-API">Restful API, by Barcode.</a>
  
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **REST**
 
-- 👯 What I want to work on **Nearly anything I can find, to get my hands on.**
+- 👯 What I want to work on **Google Backend Data-WebServices..**
 
-- 🤝 Pronouns **Undiscovered at this time**
+- 🤝 Experience: **Backend Web Developer, Computer Science Major, Engineering and Cyber-Security, infoSec.**
 
-- What have I done before? [Engineering / Cyber-Security / Trust & Safety](Engineering / Cyber-Security / Trust & Safety)
+- What have I done before?: **Engineering / Cyber-Security / InfoSec**
 
-- 📝 Current Job: [Software Developer / Engineer](Software Developer / Engineer)
+- 📝 Current Job: **Software Engineer / Full-Stack Engineer**
 
-- 💬 Known Coding Languages: **React, Go, C++, Python, Framework, Express, TypeScript, Ruby, Reactnative,**
+- 💬 Known Coding Languages / Frameworks: **React, Go, C++, Python, Framework, Express, TypeScript, Ruby, Reactnative, Tailwind ( CSS ), HTML, Python LIB, Data-Sci**
 
-- 📄 Hobbies [Breaking Code, Fixing Code, Getting Mad at My Code Running then breaking when I'm gone, I Enjoy Playing Games, When I'm not Developing I Create Dumb Frameworks out of the Random](Breaking Code, Fixing Code, Getting Mad at My Code Running then breaking when I'm gone, I Enjoy Playing Games, When I'm not Developing I Create Dumb Frameworks out of the Random)
+- 📄 Hobbies **Coding, fixing issues, Controbuting to Github Issue fixes, Sleeping, Studying Computer Science Indepth, Creating Frameworks**
 
-- ⚡ Fun fact **I like fixing code, then when I leave it breaks!**
+- ⚡ Fun fact **I'm a Framework Developer :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/actuallybarcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="actuallybarcode" height="30" width="40" /></a>
+<a href="https://twitter.com/barcodeforgot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="actuallybarcode" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/4kUSDmSk6c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4kUSDmSk6c" height="30" width="40" /></a>
 </p>
 
